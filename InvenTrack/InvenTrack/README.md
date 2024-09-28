@@ -1,22 +1,22 @@
-# Inventory Management System
+# InvenTrack
 
 
 
-## Overview
+## Descripción general
 
-> This repository contains an Inventory Management System built using React for the frontend and Spring Boot for the backend. 
+> Este repositorio contiene un sistema de gestión de inventario creado con React para el frontend y Spring Boot para el backend.
 >
->> The system allows an inventory manager to view, add, edit, and delete products. Each product has a title, price, and quantity.
+>> El sistema permite que un administrador de inventario vea, agregue, edite y elimine productos. Cada producto tiene un título, un precio y una cantidad.
 
 
-### Products
+### Productos
 ![alt text](assets/ims01.png)
 
-### View Product
+### Vista del Producto
 ![alt text](assets/ims03.png)
 
-### Add Product
+### Añadiendo un Producto
 ![alt text](assets/ims02.png)
 
-### Update Product
+### Actualizando el Producto
 ![alt text](assets/ims04.png)
